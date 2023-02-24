@@ -31,8 +31,8 @@ https://jovian.com/tusharg895/online-retail-data-analysis#C1
 ## Python Packages used
 Pandas-profiling for EDA report: https://pypi.org/project/pandas-profiling/   
 import pandas as pd  
-import numpy as np
-from pandas_profiling import ProfileReport
-import seaborn as sns
-import matplotlib.pyplot as plt
+import numpy as np  
+from pandas_profiling import ProfileReport  
+import seaborn as sns  
+import matplotlib.pyplot as plt  
 from numpy.lib.function_base import median
