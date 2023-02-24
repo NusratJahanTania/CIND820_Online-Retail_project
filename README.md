@@ -5,26 +5,32 @@ The sale of goods and services over the internet is known as online retailing. I
 https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
 
 ## Related articles
+
 [1] Cluster-based demand forecasting using Bayesian 
 model averaging: An ensemble learning approach. Available at 
 https://www.sciencedirect.com/science/article/pii/S2772662222000066?via%3Dihub
+
 [2] Application of 
 Ensemble Design for On-Line Retail E-Commerce for the Better Customer Response. 
 Available at https://zenodo.org/record/804178#.Y_RKHnbMLIU
+
 [3] Online Retail Customer Segmentation Analysis. Available at 
 https://www.kaggle.com/code/lakshmi25npathi/online-retail-customer-segmentation-analysis/notebook
+
 [4] Customer Segmentation – Combining RFM And Predictive Algorithms. Available at 
 https://www.springml.com/blog/customer-segmentation-combining-rfm-and-predictive-algorithms
+
 [5] Online Retail Dataset - Classification, Clustering and Regression. 
 Available at https://www.codersarts.com/post/online-retail-dataset-classification-clustering-and-regression
+
 [6] Online Retail - Data Analysis. Available at 
 https://jovian.com/tusharg895/online-retail-data-analysis#C1
 
 
 
 ## Python Packages used
-Pandas-profiling for EDA report: https://pypi.org/project/pandas-profiling/
-import pandas as pd
+Pandas-profiling for EDA report: https://pypi.org/project/pandas-profiling/   
+import pandas as pd  
 import numpy as np
 from pandas_profiling import ProfileReport
 import seaborn as sns
